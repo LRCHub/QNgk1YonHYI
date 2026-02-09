@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "約束のスターリーナイト",
+  "base_artist": "伊東歌詞太郎",
+  "createdAt": "2026-02-09T12:09:05.713237Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "約束のスターリーナイト",
+      "artist": "伊東歌詞太郎",
+      "has_synced": false,
+      "path": "select/pl_01_約束のスターリーナイト_伊東歌詞太郎.txt"
+    }
+  ]
+}
